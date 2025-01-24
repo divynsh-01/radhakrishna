@@ -1,4 +1,22 @@
-body{
+body {
     background-color: wheat;
-    font-family: Arial, Helvetica, sans-serif;    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.radhey {
+    text-align: center;
+    margin: 20px 0;
+    border: 2px solid;
+    background-color: rgb(232, 191, 191);
+}
+
+.r2 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.r2 video{
+    height: 60vh;
 }
