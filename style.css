@@ -20,3 +20,16 @@ body {
 .r2 video{
     height: 60vh;
 }
+
+.r3{
+    border: 2px solid;
+    width: 100%;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.r3 video{
+    padding: 10px;
+    width: 100%;
+}
